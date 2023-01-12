@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats)
  
 
  <!---
