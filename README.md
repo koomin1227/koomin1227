@@ -8,7 +8,7 @@
 
 
 <div align="center">
- <p><b>- 세종대학교 지능기전공학부(2019.03 ~ )<b><br><b>- 42서울(2023.03 ~ )<b><p>
+ <p><b>- 세종대학교 지능기전공학부(2019.03 ~ )<b><br><b>- 31사단(2020.07 ~ 2022.01)<b><p>
  <p align="center">겨울방학에 코딩 공부하는 사람입니다.<p>
 </div>
   
@@ -16,7 +16,7 @@
 
 <section align="center">
  <h3>🔥 Studying!! 🔥</h3>
- 
+ 반도체 관련 웹사이트 만들기 프로젝트 진행중입니다. 
  <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
