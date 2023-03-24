@@ -53,9 +53,9 @@
 <div> 
  
  
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227)
+<!--  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227) -->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats) -->
 
  
 </div>
