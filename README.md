@@ -8,22 +8,13 @@
 
 
 <div align="center">
- <p><b>- 세종대학교 지능기전 공학부(2019.03 ~ )</b><br><b>- 31사단(2020.07 ~ 2022.01)</b><br><b>- 42SEOUL 9기(2023.03.13 ~ )</b><p>
+ <p><b>- 세종대학교 지능기전 공학부(2019.03 ~ )</b><br><b>- 31사단(2020.07 ~ 2022.01)</b><br><b>- 42SEOUL 9기(2023.03.13 ~ )</b><br><b>- 네이버 BoostCamp 웹・모바일 8기(2023.07.10 ~ )</b><p>
  <p>코딩 이것저것 공부하는 사람입니다.<br> 백엔드 기초 공부 중 입니다...<p>
 </div>
   
 <hr />
 
-<section align="center">
- <h3>🔥 Studying!! 🔥</h3>
- 반도체 관련 웹사이트 만들기 프로젝트 진행중입니다. 
- <div>
 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- </div> 
-</section>
-  
-<hr /> 
 <section align="center">
  <h3>⚒️ Tech Stack ⚒️</h3>
  <b>FrameWork & Language</b>
