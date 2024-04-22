@@ -1,64 +1,36 @@
-<h1 align="center">Koo Min</h1>
-
-<div align="center">
- 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoomin1227%2Fkoomin1227%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+# <center>Koo Min</center>
 
 
-<div align="center">
- <p><b>- 세종대학교 지능기전 공학부(2019.03 ~ )</b><br><b>- 42SEOUL 9기(2023.03.13 ~ 2023.11)</b><br><b>- IBK창공 서울대캠프(2023.06.30 ~ 2023.10)</b><br><b>- 네이버 BoostCamp 웹 ・ 모바일 8기(2023.07.10 ~ 2023.12.16)</b><p>
+<center>
 
-</div>
-  
-<hr />
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoomin1227%2Fkoomin1227%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ </center>
 
 
-<section align="center">
- <h3>⚒️ Tech Stack ⚒️</h3>
- <b>FrameWork&Language</b>
- <div>
-  <img src="https://img.shields.io/badge/ Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
- </div> 
+### Activities
+- 세종대학교 지능기전 공학부(2019.03 ~ )
+- 42SEOUL 9기(2023.03.13 ~ 2023.11)
+- IBK창공 서울대캠프(2023.06.30 ~ 2023.10)
+- 네이버 BoostCamp 웹 ・ 모바일 8기(2023.07.10 ~ 2023.12.16)
+- SW Maestro 15기 (2024.04 ~ )
 
- <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-55C2E1?style=flat&logo=CoffeeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+### Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
- </div>
- <br>
- <b>Tools</b>
- <div>
-  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
- </div>
-</section>
-  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Nest](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Posgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Naver_Cloud_Platform-%2300843e.svg?style=for-the-badge)
 
-<div align="center">
- 
-<div> 
- 
- 
-<!--  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227) -->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats)
-<!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koomin1227)](https://github.com/anuraghazra/github-readme-stats) -->
-
- 
-</div>
-
-
- <!---
- 뱃지 작성 코드
-https://simpleicons.org/?q=rea      <-아이콘 웹주소
- <img src="https://img.shields.io/badge/ - ?style=flat&logo= &logoColor=white"/>
- <img src="https://img.shields.io/badge/이름-색상코드?style=flat&logo=로고명&logoColor=로고색"/>
- 
---->
-
-
