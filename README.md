@@ -1,19 +1,21 @@
-# <center>Koo Min</center>
+# Koo Min
 
 
-<center>
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koomin1227)](https://solved.ac/koomin1227)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoomin1227%2Fkoomin1227%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
- </center>
+ <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoomin1227%2Fkoomin1227%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  -->
+
+
+
 
 
 ### Activities
-- 세종대학교 지능기전 공학부(2019.03 ~ )
+- 세종대학교 지능기전 공학부(2019.03 ~ 2025.08)
 - 42SEOUL 9기(2023.03.13 ~ 2023.11)
-- IBK창공 서울대캠프(2023.06.30 ~ 2023.10)
 - 네이버 BoostCamp 웹 ・ 모바일 8기(2023.07.10 ~ 2023.12.16)
-- SW Maestro 15기 (2024.04 ~ )
+- SW Maestro 15기 (2024.04 ~ 2024.12)
+- MGRV Backend Engineer Intern (2025.03 ~ )
 
 ### Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
